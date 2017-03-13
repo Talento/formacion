@@ -1,0 +1,4 @@
+rvm 
+rspec 1
+linters 1
+yarddoc 1

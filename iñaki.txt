@@ -1,0 +1,2 @@
+rspec 2
+linter 1
